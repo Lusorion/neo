@@ -1,0 +1,1933 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-03-01T15:40:52.9582609+01:00
+  lastVerifiedAtString: 2018-03-01T15:40:52.9582609+01:00
+  initializedAtString: 2018-03-01T15:27:55.5696765+01:00
+  log:
+  - commitID: bfee9d63c0405fcfb1676030bf917a1aebbfcedc
+    mergeA: 
+    mergeB: 
+    authorName: Lusorion
+    authorEmail: sasaszeiner@seznam.cz
+    commitEmail: sasaszeiner@seznam.cz
+    commitName: Lusorion
+    summary: 52
+    description: "52\r\n\r\nfg"
+    timeString: 2018-03-01T15:38:05.0000000+01:00
+    commitTimeString: 2018-03-01T15:38:05.0000000+01:00
+    changes:
+    - path: Assets\Solar System.unity
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Solar System.unity
+      projectPath: Assets\Solar System.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CrashedAssetImports.txt
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 4aa32a24ce07b99fac0a9f4b780e6ef092807bc0
+    mergeA: 
+    mergeB: 
+    authorName: Lusorion
+    authorEmail: a.szeiner@lusorion.com
+    commitEmail: a.szeiner@lusorion.com
+    commitName: Lusorion
+    summary: test
+    description: "test\r\n\r\ntesr"
+    timeString: 2018-03-01T15:27:53.0000000+01:00
+    commitTimeString: 2018-03-01T15:27:53.0000000+01:00
+    changes:
+    - path: .collabignore
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy.meta
+      projectPath: Assets\Asteroidy.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a001.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a001.png
+      projectPath: Assets\Asteroidy\a001.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a001.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a001.png.meta
+      projectPath: Assets\Asteroidy\a001.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a002.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a002.png
+      projectPath: Assets\Asteroidy\a002.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a002.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a002.png.meta
+      projectPath: Assets\Asteroidy\a002.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a003.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a003.png
+      projectPath: Assets\Asteroidy\a003.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a003.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a003.png.meta
+      projectPath: Assets\Asteroidy\a003.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a004.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a004.png
+      projectPath: Assets\Asteroidy\a004.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a004.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a004.png.meta
+      projectPath: Assets\Asteroidy\a004.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a005.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a005.png
+      projectPath: Assets\Asteroidy\a005.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a005.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a005.png.meta
+      projectPath: Assets\Asteroidy\a005.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a006.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a006.png
+      projectPath: Assets\Asteroidy\a006.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a006.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a006.png.meta
+      projectPath: Assets\Asteroidy\a006.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a007.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a007.png
+      projectPath: Assets\Asteroidy\a007.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a007.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a007.png.meta
+      projectPath: Assets\Asteroidy\a007.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a008.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a008.png
+      projectPath: Assets\Asteroidy\a008.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Asteroidy\a008.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Asteroidy\a008.png.meta
+      projectPath: Assets\Asteroidy\a008.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics.meta
+      projectPath: Assets\Graphics.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode.meta
+      projectPath: Assets\Graphics\Lode.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\001.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\001.png
+      projectPath: Assets\Graphics\Lode\001.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\001.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\001.png.meta
+      projectPath: Assets\Graphics\Lode\001.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\002.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\002.png
+      projectPath: Assets\Graphics\Lode\002.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\002.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\002.png.meta
+      projectPath: Assets\Graphics\Lode\002.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\003.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\003.png
+      projectPath: Assets\Graphics\Lode\003.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\003.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\003.png.meta
+      projectPath: Assets\Graphics\Lode\003.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\004.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\004.png
+      projectPath: Assets\Graphics\Lode\004.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\004.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\004.png.meta
+      projectPath: Assets\Graphics\Lode\004.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\005.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\005.png
+      projectPath: Assets\Graphics\Lode\005.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\005.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\005.png.meta
+      projectPath: Assets\Graphics\Lode\005.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\006.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\006.png
+      projectPath: Assets\Graphics\Lode\006.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\006.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\006.png.meta
+      projectPath: Assets\Graphics\Lode\006.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\007.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\007.png
+      projectPath: Assets\Graphics\Lode\007.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\007.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\007.png.meta
+      projectPath: Assets\Graphics\Lode\007.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\008.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\008.png
+      projectPath: Assets\Graphics\Lode\008.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\008.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\008.png.meta
+      projectPath: Assets\Graphics\Lode\008.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\009.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\009.png
+      projectPath: Assets\Graphics\Lode\009.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\009.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\009.png.meta
+      projectPath: Assets\Graphics\Lode\009.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\010.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\010.png
+      projectPath: Assets\Graphics\Lode\010.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\010.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\010.png.meta
+      projectPath: Assets\Graphics\Lode\010.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\011.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\011.png
+      projectPath: Assets\Graphics\Lode\011.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\011.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\011.png.meta
+      projectPath: Assets\Graphics\Lode\011.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\012.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\012.png
+      projectPath: Assets\Graphics\Lode\012.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Lode\012.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Lode\012.png.meta
+      projectPath: Assets\Graphics\Lode\012.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety.meta
+      projectPath: Assets\Graphics\Planety.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a001.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a001.png
+      projectPath: Assets\Graphics\Planety\a001.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a001.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a001.png.meta
+      projectPath: Assets\Graphics\Planety\a001.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a002.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a002.png
+      projectPath: Assets\Graphics\Planety\a002.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a002.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a002.png.meta
+      projectPath: Assets\Graphics\Planety\a002.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a003.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a003.png
+      projectPath: Assets\Graphics\Planety\a003.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a003.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a003.png.meta
+      projectPath: Assets\Graphics\Planety\a003.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a004.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a004.png
+      projectPath: Assets\Graphics\Planety\a004.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a004.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a004.png.meta
+      projectPath: Assets\Graphics\Planety\a004.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a005.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a005.png
+      projectPath: Assets\Graphics\Planety\a005.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a005.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a005.png.meta
+      projectPath: Assets\Graphics\Planety\a005.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a006.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a006.png
+      projectPath: Assets\Graphics\Planety\a006.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a006.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a006.png.meta
+      projectPath: Assets\Graphics\Planety\a006.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a007.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a007.png
+      projectPath: Assets\Graphics\Planety\a007.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a007.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a007.png.meta
+      projectPath: Assets\Graphics\Planety\a007.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a008.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a008.png
+      projectPath: Assets\Graphics\Planety\a008.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\a008.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\a008.png.meta
+      projectPath: Assets\Graphics\Planety\a008.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\ha.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\ha.png
+      projectPath: Assets\Graphics\Planety\ha.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\ha.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\ha.png.meta
+      projectPath: Assets\Graphics\Planety\ha.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\jupiter.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\jupiter.png
+      projectPath: Assets\Graphics\Planety\jupiter.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\jupiter.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\jupiter.png.meta
+      projectPath: Assets\Graphics\Planety\jupiter.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\mars.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\mars.png
+      projectPath: Assets\Graphics\Planety\mars.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\mars.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\mars.png.meta
+      projectPath: Assets\Graphics\Planety\mars.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\merkur.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\merkur.png
+      projectPath: Assets\Graphics\Planety\merkur.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\merkur.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\merkur.png.meta
+      projectPath: Assets\Graphics\Planety\merkur.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\mesiac.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\mesiac.png
+      projectPath: Assets\Graphics\Planety\mesiac.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\mesiac.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\mesiac.png.meta
+      projectPath: Assets\Graphics\Planety\mesiac.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\neptun.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\neptun.png
+      projectPath: Assets\Graphics\Planety\neptun.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\neptun.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\neptun.png.meta
+      projectPath: Assets\Graphics\Planety\neptun.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p001.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p001.png
+      projectPath: Assets\Graphics\Planety\p001.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p001.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p001.png.meta
+      projectPath: Assets\Graphics\Planety\p001.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p002.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p002.png
+      projectPath: Assets\Graphics\Planety\p002.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p002.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p002.png.meta
+      projectPath: Assets\Graphics\Planety\p002.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p003.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p003.png
+      projectPath: Assets\Graphics\Planety\p003.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p003.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p003.png.meta
+      projectPath: Assets\Graphics\Planety\p003.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p004.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p004.png
+      projectPath: Assets\Graphics\Planety\p004.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p004.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p004.png.meta
+      projectPath: Assets\Graphics\Planety\p004.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p005.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p005.png
+      projectPath: Assets\Graphics\Planety\p005.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p005.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p005.png.meta
+      projectPath: Assets\Graphics\Planety\p005.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p006.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p006.png
+      projectPath: Assets\Graphics\Planety\p006.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p006.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p006.png.meta
+      projectPath: Assets\Graphics\Planety\p006.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p007.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p007.png
+      projectPath: Assets\Graphics\Planety\p007.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p007.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p007.png.meta
+      projectPath: Assets\Graphics\Planety\p007.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p008.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p008.png
+      projectPath: Assets\Graphics\Planety\p008.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p008.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p008.png.meta
+      projectPath: Assets\Graphics\Planety\p008.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p009.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p009.png
+      projectPath: Assets\Graphics\Planety\p009.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p009.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p009.png.meta
+      projectPath: Assets\Graphics\Planety\p009.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p010.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p010.png
+      projectPath: Assets\Graphics\Planety\p010.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p010.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p010.png.meta
+      projectPath: Assets\Graphics\Planety\p010.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p011.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p011.png
+      projectPath: Assets\Graphics\Planety\p011.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p011.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p011.png.meta
+      projectPath: Assets\Graphics\Planety\p011.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p012.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p012.png
+      projectPath: Assets\Graphics\Planety\p012.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p012.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p012.png.meta
+      projectPath: Assets\Graphics\Planety\p012.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p013.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p013.png
+      projectPath: Assets\Graphics\Planety\p013.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\p013.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\p013.png.meta
+      projectPath: Assets\Graphics\Planety\p013.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\pluto.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\pluto.png
+      projectPath: Assets\Graphics\Planety\pluto.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\pluto.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\pluto.png.meta
+      projectPath: Assets\Graphics\Planety\pluto.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\saturn.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\saturn.png
+      projectPath: Assets\Graphics\Planety\saturn.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\saturn.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\saturn.png.meta
+      projectPath: Assets\Graphics\Planety\saturn.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\slnko.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\slnko.png
+      projectPath: Assets\Graphics\Planety\slnko.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\slnko.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\slnko.png.meta
+      projectPath: Assets\Graphics\Planety\slnko.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\uran.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\uran.png
+      projectPath: Assets\Graphics\Planety\uran.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\uran.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\uran.png.meta
+      projectPath: Assets\Graphics\Planety\uran.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\venusa.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\venusa.png
+      projectPath: Assets\Graphics\Planety\venusa.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\venusa.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\venusa.png.meta
+      projectPath: Assets\Graphics\Planety\venusa.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\zem.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\zem.png
+      projectPath: Assets\Graphics\Planety\zem.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\Planety\zem.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\Planety\zem.png.meta
+      projectPath: Assets\Graphics\Planety\zem.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\galaxymap.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\galaxymap.png
+      projectPath: Assets\Graphics\galaxymap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\galaxymap.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\galaxymap.png.meta
+      projectPath: Assets\Graphics\galaxymap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud.meta
+      projectPath: Assets\Graphics\hud.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud.png
+      projectPath: Assets\Graphics\hud.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud.png.meta
+      projectPath: Assets\Graphics\hud.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\hudx.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\hudx.png
+      projectPath: Assets\Graphics\hud\hudx.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\hudx.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\hudx.png.meta
+      projectPath: Assets\Graphics\hud\hudx.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\mapa.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\mapa.png
+      projectPath: Assets\Graphics\hud\mapa.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\mapa.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\mapa.png.meta
+      projectPath: Assets\Graphics\hud\mapa.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\maphud.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\maphud.png
+      projectPath: Assets\Graphics\hud\maphud.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\maphud.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\maphud.png.meta
+      projectPath: Assets\Graphics\hud\maphud.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil01.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil01.png
+      projectPath: Assets\Graphics\hud\minil01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil01.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil01.png.meta
+      projectPath: Assets\Graphics\hud\minil01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil02.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil02.png
+      projectPath: Assets\Graphics\hud\minil02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil02.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil02.png.meta
+      projectPath: Assets\Graphics\hud\minil02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil03.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil03.png
+      projectPath: Assets\Graphics\hud\minil03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil03.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil03.png.meta
+      projectPath: Assets\Graphics\hud\minil03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil04.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil04.png
+      projectPath: Assets\Graphics\hud\minil04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil04.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil04.png.meta
+      projectPath: Assets\Graphics\hud\minil04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil05.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil05.png
+      projectPath: Assets\Graphics\hud\minil05.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil05.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil05.png.meta
+      projectPath: Assets\Graphics\hud\minil05.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil06.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil06.png
+      projectPath: Assets\Graphics\hud\minil06.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil06.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil06.png.meta
+      projectPath: Assets\Graphics\hud\minil06.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil07.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil07.png
+      projectPath: Assets\Graphics\hud\minil07.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil07.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil07.png.meta
+      projectPath: Assets\Graphics\hud\minil07.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil08.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil08.png
+      projectPath: Assets\Graphics\hud\minil08.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\minil08.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\minil08.png.meta
+      projectPath: Assets\Graphics\hud\minil08.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\planetmap.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\planetmap.png
+      projectPath: Assets\Graphics\hud\planetmap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\planetmap.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\planetmap.png.meta
+      projectPath: Assets\Graphics\hud\planetmap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\planetmap2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\planetmap2.png
+      projectPath: Assets\Graphics\hud\planetmap2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\planetmap2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\planetmap2.png.meta
+      projectPath: Assets\Graphics\hud\planetmap2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\starmap.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\starmap.png
+      projectPath: Assets\Graphics\hud\starmap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\starmap.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\starmap.png.meta
+      projectPath: Assets\Graphics\hud\starmap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\sunmap.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\sunmap.png
+      projectPath: Assets\Graphics\hud\sunmap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\sunmap.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\sunmap.png.meta
+      projectPath: Assets\Graphics\hud\sunmap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tabulka credit.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tabulka
+        credit.png
+      projectPath: Assets\Graphics\hud\tabulka credit.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tabulka credit.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tabulka
+        credit.png.meta
+      projectPath: Assets\Graphics\hud\tabulka credit.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tgalaxion.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tgalaxion.png
+      projectPath: Assets\Graphics\hud\tgalaxion.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tgalaxion.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tgalaxion.png.meta
+      projectPath: Assets\Graphics\hud\tgalaxion.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko +.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        +.png
+      projectPath: Assets\Graphics\hud\tlacitko +.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko +.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        +.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko +.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko -.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        -.png
+      projectPath: Assets\Graphics\hud\tlacitko -.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko -.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        -.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko -.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko galaxia.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        galaxia.png
+      projectPath: Assets\Graphics\hud\tlacitko galaxia.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko galaxia.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        galaxia.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko galaxia.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko mship.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        mship.png
+      projectPath: Assets\Graphics\hud\tlacitko mship.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko mship.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        mship.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko mship.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko outpost.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        outpost.png
+      projectPath: Assets\Graphics\hud\tlacitko outpost.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko outpost.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        outpost.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko outpost.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko player.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        player.png
+      projectPath: Assets\Graphics\hud\tlacitko player.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko player.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        player.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko player.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko stanica.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        stanica.png
+      projectPath: Assets\Graphics\hud\tlacitko stanica.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tlacitko stanica.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tlacitko
+        stanica.png.meta
+      projectPath: Assets\Graphics\hud\tlacitko stanica.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tminuson.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tminuson.png
+      projectPath: Assets\Graphics\hud\tminuson.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tminuson.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tminuson.png.meta
+      projectPath: Assets\Graphics\hud\tminuson.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tpluson.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tpluson.png
+      projectPath: Assets\Graphics\hud\tpluson.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tpluson.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tpluson.png.meta
+      projectPath: Assets\Graphics\hud\tpluson.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tstarsystem.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tstarsystem.png
+      projectPath: Assets\Graphics\hud\tstarsystem.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tstarsystem.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tstarsystem.png.meta
+      projectPath: Assets\Graphics\hud\tstarsystem.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tstarsystemon.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tstarsystemon.png
+      projectPath: Assets\Graphics\hud\tstarsystemon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\hud\tstarsystemon.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\hud\tstarsystemon.png.meta
+      projectPath: Assets\Graphics\hud\tstarsystemon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky.meta
+      projectPath: Assets\Graphics\mapky.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky\aureabory system.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky\aureabory
+        system.png
+      projectPath: Assets\Graphics\mapky\aureabory system.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky\aureabory system.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky\aureabory
+        system.png.meta
+      projectPath: Assets\Graphics\mapky\aureabory system.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky\darkan system.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky\darkan
+        system.png
+      projectPath: Assets\Graphics\mapky\darkan system.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky\darkan system.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky\darkan
+        system.png.meta
+      projectPath: Assets\Graphics\mapky\darkan system.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky\solar system.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky\solar
+        system.png
+      projectPath: Assets\Graphics\mapky\solar system.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\mapky\solar system.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\mapky\solar
+        system.png.meta
+      projectPath: Assets\Graphics\mapky\solar system.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu.meta
+      projectPath: Assets\Graphics\menu.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\alianceminiicon.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\alianceminiicon.png
+      projectPath: Assets\Graphics\menu\alianceminiicon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\alianceminiicon.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\alianceminiicon.png.meta
+      projectPath: Assets\Graphics\menu\alianceminiicon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\exitminiicon.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\exitminiicon.png
+      projectPath: Assets\Graphics\menu\exitminiicon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\exitminiicon.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\exitminiicon.png.meta
+      projectPath: Assets\Graphics\menu\exitminiicon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero1.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero1.png
+      projectPath: Assets\Graphics\menu\hero1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero1.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero1.png.meta
+      projectPath: Assets\Graphics\menu\hero1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero2.png
+      projectPath: Assets\Graphics\menu\hero2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero2.png.meta
+      projectPath: Assets\Graphics\menu\hero2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero3.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero3.png
+      projectPath: Assets\Graphics\menu\hero3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero3.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero3.png.meta
+      projectPath: Assets\Graphics\menu\hero3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero4.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero4.png
+      projectPath: Assets\Graphics\menu\hero4.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\hero4.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\hero4.png.meta
+      projectPath: Assets\Graphics\menu\hero4.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\herofraxiaobrazovka.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\herofraxiaobrazovka.png
+      projectPath: Assets\Graphics\menu\herofraxiaobrazovka.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\herofraxiaobrazovka.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\herofraxiaobrazovka.png.meta
+      projectPath: Assets\Graphics\menu\herofraxiaobrazovka.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\heroselectnoise.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\heroselectnoise.png
+      projectPath: Assets\Graphics\menu\heroselectnoise.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\heroselectnoise.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\heroselectnoise.png.meta
+      projectPath: Assets\Graphics\menu\heroselectnoise.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\login.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\login.png
+      projectPath: Assets\Graphics\menu\login.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\login.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\login.png.meta
+      projectPath: Assets\Graphics\menu\login.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero1.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero1.png
+      projectPath: Assets\Graphics\menu\minihero1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero1.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero1.png.meta
+      projectPath: Assets\Graphics\menu\minihero1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero2.png
+      projectPath: Assets\Graphics\menu\minihero2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero2.png.meta
+      projectPath: Assets\Graphics\menu\minihero2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero3.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero3.png
+      projectPath: Assets\Graphics\menu\minihero3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero3.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero3.png.meta
+      projectPath: Assets\Graphics\menu\minihero3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero4.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero4.png
+      projectPath: Assets\Graphics\menu\minihero4.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\minihero4.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\minihero4.png.meta
+      projectPath: Assets\Graphics\menu\minihero4.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\music.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\music.png
+      projectPath: Assets\Graphics\menu\music.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\music.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\music.png.meta
+      projectPath: Assets\Graphics\menu\music.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\obrazovka menu.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\obrazovka
+        menu.png
+      projectPath: Assets\Graphics\menu\obrazovka menu.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\obrazovka menu.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\obrazovka
+        menu.png.meta
+      projectPath: Assets\Graphics\menu\obrazovka menu.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\ovladac.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\ovladac.png
+      projectPath: Assets\Graphics\menu\ovladac.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\ovladac.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\ovladac.png.meta
+      projectPath: Assets\Graphics\menu\ovladac.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\ovladach.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\ovladach.png
+      projectPath: Assets\Graphics\menu\ovladach.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\ovladach.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\ovladach.png.meta
+      projectPath: Assets\Graphics\menu\ovladach.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\password.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\password.png
+      projectPath: Assets\Graphics\menu\password.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\password.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\password.png.meta
+      projectPath: Assets\Graphics\menu\password.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\playersselectobrazovka.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\playersselectobrazovka.png
+      projectPath: Assets\Graphics\menu\playersselectobrazovka.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\playersselectobrazovka.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\playersselectobrazovka.png.meta
+      projectPath: Assets\Graphics\menu\playersselectobrazovka.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\savename.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\savename.png
+      projectPath: Assets\Graphics\menu\savename.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\savename.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\savename.png.meta
+      projectPath: Assets\Graphics\menu\savename.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\selectplayer.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\selectplayer.png
+      projectPath: Assets\Graphics\menu\selectplayer.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\selectplayer.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\selectplayer.png.meta
+      projectPath: Assets\Graphics\menu\selectplayer.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\setplanetclear.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\setplanetclear.png
+      projectPath: Assets\Graphics\menu\setplanetclear.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\setplanetclear.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\setplanetclear.png.meta
+      projectPath: Assets\Graphics\menu\setplanetclear.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\sound.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\sound.png
+      projectPath: Assets\Graphics\menu\sound.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\sound.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\sound.png.meta
+      projectPath: Assets\Graphics\menu\sound.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\system obrazovka.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\system
+        obrazovka.png
+      projectPath: Assets\Graphics\menu\system obrazovka.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\system obrazovka.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\system
+        obrazovka.png.meta
+      projectPath: Assets\Graphics\menu\system obrazovka.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\systemselecttab.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\systemselecttab.png
+      projectPath: Assets\Graphics\menu\systemselecttab.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\systemselecttab.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\systemselecttab.png.meta
+      projectPath: Assets\Graphics\menu\systemselecttab.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\taddplayer.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\taddplayer.png
+      projectPath: Assets\Graphics\menu\taddplayer.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\taddplayer.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\taddplayer.png.meta
+      projectPath: Assets\Graphics\menu\taddplayer.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\taliance2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\taliance2.png
+      projectPath: Assets\Graphics\menu\taliance2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\taliance2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\taliance2.png.meta
+      projectPath: Assets\Graphics\menu\taliance2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tback.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tback.png
+      projectPath: Assets\Graphics\menu\tback.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tback.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tback.png.meta
+      projectPath: Assets\Graphics\menu\tback.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tback2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tback2.png
+      projectPath: Assets\Graphics\menu\tback2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tback2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tback2.png.meta
+      projectPath: Assets\Graphics\menu\tback2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tcpuoff.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tcpuoff.png
+      projectPath: Assets\Graphics\menu\tcpuoff.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tcpuoff.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tcpuoff.png.meta
+      projectPath: Assets\Graphics\menu\tcpuoff.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tcpuon.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tcpuon.png
+      projectPath: Assets\Graphics\menu\tcpuon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tcpuon.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tcpuon.png.meta
+      projectPath: Assets\Graphics\menu\tcpuon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\texit.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\texit.png
+      projectPath: Assets\Graphics\menu\texit.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\texit.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\texit.png.meta
+      projectPath: Assets\Graphics\menu\texit.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tload.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tload.png
+      projectPath: Assets\Graphics\menu\tload.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tload.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tload.png.meta
+      projectPath: Assets\Graphics\menu\tload.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tlogin.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tlogin.png
+      projectPath: Assets\Graphics\menu\tlogin.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tlogin.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tlogin.png.meta
+      projectPath: Assets\Graphics\menu\tlogin.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tmulty.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tmulty.png
+      projectPath: Assets\Graphics\menu\tmulty.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tmulty.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tmulty.png.meta
+      projectPath: Assets\Graphics\menu\tmulty.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tnastavenia.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tnastavenia.png
+      projectPath: Assets\Graphics\menu\tnastavenia.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tnastavenia.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tnastavenia.png.meta
+      projectPath: Assets\Graphics\menu\tnastavenia.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tnext2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tnext2.png
+      projectPath: Assets\Graphics\menu\tnext2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tnext2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tnext2.png.meta
+      projectPath: Assets\Graphics\menu\tnext2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tplayeractive.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tplayeractive.png
+      projectPath: Assets\Graphics\menu\tplayeractive.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tplayeractive.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tplayeractive.png.meta
+      projectPath: Assets\Graphics\menu\tplayeractive.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tplayeroff.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tplayeroff.png
+      projectPath: Assets\Graphics\menu\tplayeroff.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tplayeroff.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tplayeroff.png.meta
+      projectPath: Assets\Graphics\menu\tplayeroff.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tronminiicon.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tronminiicon.png
+      projectPath: Assets\Graphics\menu\tronminiicon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tronminiicon.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tronminiicon.png.meta
+      projectPath: Assets\Graphics\menu\tronminiicon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tsave.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tsave.png
+      projectPath: Assets\Graphics\menu\tsave.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tsave.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tsave.png.meta
+      projectPath: Assets\Graphics\menu\tsave.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselect2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselect2.png
+      projectPath: Assets\Graphics\menu\tselect2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselect2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselect2.png.meta
+      projectPath: Assets\Graphics\menu\tselect2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselectmap.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselectmap.png
+      projectPath: Assets\Graphics\menu\tselectmap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselectmap.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselectmap.png.meta
+      projectPath: Assets\Graphics\menu\tselectmap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla1.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla1.png
+      projectPath: Assets\Graphics\menu\tselpla1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla1.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla1.png.meta
+      projectPath: Assets\Graphics\menu\tselpla1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla2.png
+      projectPath: Assets\Graphics\menu\tselpla2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla2.png.meta
+      projectPath: Assets\Graphics\menu\tselpla2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla3.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla3.png
+      projectPath: Assets\Graphics\menu\tselpla3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla3.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla3.png.meta
+      projectPath: Assets\Graphics\menu\tselpla3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla4.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla4.png
+      projectPath: Assets\Graphics\menu\tselpla4.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla4.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla4.png.meta
+      projectPath: Assets\Graphics\menu\tselpla4.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla5.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla5.png
+      projectPath: Assets\Graphics\menu\tselpla5.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla5.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla5.png.meta
+      projectPath: Assets\Graphics\menu\tselpla5.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla6.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla6.png
+      projectPath: Assets\Graphics\menu\tselpla6.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla6.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla6.png.meta
+      projectPath: Assets\Graphics\menu\tselpla6.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla7.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla7.png
+      projectPath: Assets\Graphics\menu\tselpla7.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla7.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla7.png.meta
+      projectPath: Assets\Graphics\menu\tselpla7.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla8.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla8.png
+      projectPath: Assets\Graphics\menu\tselpla8.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tselpla8.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tselpla8.png.meta
+      projectPath: Assets\Graphics\menu\tselpla8.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tshop.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tshop.png
+      projectPath: Assets\Graphics\menu\tshop.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tshop.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tshop.png.meta
+      projectPath: Assets\Graphics\menu\tshop.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tsingel.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tsingel.png
+      projectPath: Assets\Graphics\menu\tsingel.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tsingel.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tsingel.png.meta
+      projectPath: Assets\Graphics\menu\tsingel.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tstart.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tstart.png
+      projectPath: Assets\Graphics\menu\tstart.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\tstart.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\tstart.png.meta
+      projectPath: Assets\Graphics\menu\tstart.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\ttrons2.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\ttrons2.png
+      projectPath: Assets\Graphics\menu\ttrons2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu\ttrons2.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu\ttrons2.png.meta
+      projectPath: Assets\Graphics\menu\ttrons2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu3.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu3.png
+      projectPath: Assets\Graphics\menu3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu3.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu3.png.meta
+      projectPath: Assets\Graphics\menu3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu4.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu4.png
+      projectPath: Assets\Graphics\menu4.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu4.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu4.png.meta
+      projectPath: Assets\Graphics\menu4.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu5.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu5.png
+      projectPath: Assets\Graphics\menu5.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu5.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu5.png.meta
+      projectPath: Assets\Graphics\menu5.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu6.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu6.png
+      projectPath: Assets\Graphics\menu6.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu6.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu6.png.meta
+      projectPath: Assets\Graphics\menu6.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu7.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu7.png
+      projectPath: Assets\Graphics\menu7.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu7.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu7.png.meta
+      projectPath: Assets\Graphics\menu7.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu8.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu8.png
+      projectPath: Assets\Graphics\menu8.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu8.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu8.png.meta
+      projectPath: Assets\Graphics\menu8.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu9.png
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu9.png
+      projectPath: Assets\Graphics\menu9.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Graphics\menu9.png.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Graphics\menu9.png.meta
+      projectPath: Assets\Graphics\menu9.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Planety.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Planety.meta
+      projectPath: Assets\Planety.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Solar System.unity
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Solar System.unity
+      projectPath: Assets\Solar System.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Solar System.unity.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\Solar System.unity.meta
+      projectPath: Assets\Solar System.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SpaceBorders.meta
+      fullPath: D:\Development\Unity - Projekty\NEO MAPS\NEO MAPS\Assets\SpaceBorders.meta
+      projectPath: Assets\SpaceBorders.meta
+      originalPath: 
+      status: 4
+      staged: 0
